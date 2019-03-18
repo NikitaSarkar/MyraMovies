@@ -1,10 +1,6 @@
-# omdb-android-client
+# myra-movies
 
 An android client for [Open Movie Database (OMDb) API](http://omdbapi.com)
-
-## Screen-record
-
-![screenRecord](http://i.imgur.com/42OGNQ0.gif)
 
 ## Functionality:
 
